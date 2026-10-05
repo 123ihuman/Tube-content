@@ -1,13 +1,86 @@
 {
-  "categories": {
-    "news": ["UC-CSyyi47VX1lD9zyeABW3w"],
-    "music": [],
-    "movies": [],
-    "dance": [],
-    "podcast": [],
-    "sport": [],
-    "katha": [],
-    "comedy": [],
-    "education": []
+  "channels": {
+    "NEWS": {
+      "aajtak": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "indiatv": "UCttspZesZIDEwwpVIgoZtWQ",
+      "NDTV": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "RepublicBharat": "UC7wXt18f2iA3EDXeqAVuKng",
+      "ZeeNews": "UCIvaYmXn910QMdemBG3v1pQ",
+      "thelallantop": "UCx8Z14PpntdaxCt2hakbQLQ",
+      "News18India": "UCPP3etACgdUWvizcES1dJ8Q",
+      "TIMESNOW": "UC6RJ7-PaXg6TIH2BzZfTV7w",
+      "IndiaToday": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "Firstpost": "UCz8QaiQxApLq8sLNcszYyJw",
+      "NDTVIndia": "UC9CYT9gSNLevX5ey2_6CK0Q",
+      "PIBIndia": "UCGn6a5SI8SNlj7WylmPD6GQ",
+      "ABPNews": "UCRWFSbif-RFENbBrSiez1DA"
+    },
+    "MUSIC": {
+      "tseries": "UCq-Fj5jknLsUf-MWSy4_brA",
+      "zeemusiccompany": "UCFFbwnve3yF62-tVXkTyHqg",
+      "sonymusicindia": "UC56gTxNs4f9xZ7Pa2i5xNzg",
+      "speedrecords": "UCOsyDsO5tIt-VZ1iwjdQmew",
+      "TipsOfficial": "UCJrDMFOdv1I2k8n9oK_V21w"
+    },
+    "PODCAST": {
+      "rajshamani": "UCzwCEE_PchiBULMnAJqhGVg",
+      "TheRanveerShow": "UCVh0kLP5dTil9EA7VFLUbQA",
+      "beerbiceps": "UCPxMZIFE856tbTfdkdjzTSQ",
+      "TRSClips": "UCu7af8z6YlAOAIGAS6XE3Rw"
+    },
+    "COMEDY": {
+      "BBKiVines": "UCqwUrj10mAEsqezcItqvwEw",
+      "amitbhadana": "UC_vcKmg67vjMP7ciLnSxSHQ",
+      "CarryMinati": "UCj22tfcQrWG7EMEKS0qLeEg"
+    },
+    "EDUCATION": {
+      "PhysicsWallah": "UCiGyWN6DEbnj2alu7iapuKQ",
+      "dhruvrathee": "UC-CSyyi47VX1lD9zyeABW3w"
+    },
+    "MOVIES": {
+      "Shemaroo": "UCF1JIbMUs6uqoZEY1Haw0GQ",
+      "GoldminesTelefilms": "UCyoXW-Dse7fURq30EWl_CUA",
+      "DRJRecords": "UCdNWliJ74vxL5Y3Rg6cbhLg",
+      "ShemarooMovies": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+      "SonyPicturesIndia": "UCFqyJFbsV-uEcosvNhg0PaQ",
+      "YRF": "UCbTLwN10NoCU4WDzLf1JMOA",
+      "DharmaMovies": "UCKQKIY2YlI4L5QVg7hhfjrQ",
+      "ExcelMovies": "UCn9BuiRZGR_tPM2GGT4jN-w",
+      "BalajiMotionPictures": "UCSHLoG-bXj1aVA2T5y8t84A",
+      "Rajshri": "UCEKWXRsfUHkan-D_ljU8Asw",
+      "primevideoin": "UC4zWG9LccdWGUlF77LZ8toA"
+    },
+    "TV": {
+      "SonySAB": "UC6-F5tO8uklgE9Zy8IvbdFw",
+      "ColorsTV": "UC55IWqFLDH1Xp7iu1_xknRA",
+      "StarPlus": "UC-LPIU24bQXVljUXivKEeRQ",
+      "SETIndia": "UCpEhnqL0y41EpW2TvWAHD7Q",
+      "ZeeTV": "UCppHT7SZKKvar4Oc9J4oljQ"
+    },
+    "SPORTS": {
+      "StarSportsIndia": "UC2iihojySb58j_Q4zL7VI5w",
+      "SonySportsNetwork": "UC_WKb6N9iTGc77hxwXLDrbA"
+    },
+    "BHAKTI": {
+      "BhaktiBharat": "UCVveD8DTjQYCOn5tW_p6p1w",
+      "BhaktiSagarTV": "UCDqkux3AH7P9hRjmunoUeAQ",
+      "IskconBangalore": "UCPXnayBvF7ynbG_I3VOTgIg",
+      "Sadhguru": "UCcYzLCs3zrQIBVHYA1sK2sw",
+      "BKShivani": "UCQdyCrZpGq4Bbu6V8LPUDWg",
+      "GaurGopalDas": "UCz22l7kbce-uFJAoaZqxD1A",
+      "KathaBhakti": "UCHgkLDqj54mKdDOUu3enHDg"
+    },
+    "BUSINESS": {
+      "ZeeBusiness": "UCkXopQ3ubd-rnXnStZqCl2w",
+      "ETNow": "UCI_mwTKUhicNzFrhm33MzBQ",
+      "BusinessToday": "UCaPHWiExfUWaKsUtENLCv5w"
+    },
+    "TECH": {
+      "TechnicalGuruji": "UCOhHO2ICt0ti9KAh-QHvttQ",
+      "TrakinTech": "UCEPL07qzVsOcHd3sMUws65g",
+      "TechBurner": "UCXUJJNoP1QupwsYIWFXmsZg",
+      "Beebom": "UClLMMKReiIgEIGnqhYRH0jA",
+      "GSMArenaOfficial": "UCbLq9tsbo8peV22VxbDAfXA"
+    }
   }
 }
