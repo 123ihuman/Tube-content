@@ -1,9 +1,13 @@
 {
   "categories": {
-    "dance": ["UC-9-kyTW8ZkZNDHQJ6FgpwQ"],
-    "news": ["UC6RJ7-PaXg6TIH2BzZfTV7w"],
-    "katha": ["UCw9Btc4u8h6pGZk3T3t9q0A"],
-    "podcast": ["UCX6OQ3DkcsbYNE6H8uQQuVA"],
-    "sport": ["UCiWLfSweyRNmLpgEHekhoAg"]
+    "news": ["UC-CSyyi47VX1lD9zyeABW3w"],
+    "music": [],
+    "movies": [],
+    "dance": [],
+    "podcast": [],
+    "sport": [],
+    "katha": [],
+    "comedy": [],
+    "education": []
   }
 }
